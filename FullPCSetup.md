@@ -1,5 +1,5 @@
 ╔ Gaming pc
-╠► [Windows 10](https://amzn.to/3nuXq5t)
+╠► [Windows 10] (https://amzn.to/3nuXq5t)
 ╠► Z370-A PRO Motherboard https://amzn.to/2ZhPIA8
 ╠► Corsair RGB PRO 32 GB (4 x 8 GB) DDR4 3200 MHz https://amzn.to/3i9agn3
 ╠► i9-9900K 3.6GHz https://amzn.to/2BSzeGE
