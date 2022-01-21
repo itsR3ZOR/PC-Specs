@@ -1,4 +1,3 @@
-[a link] (https://github.com/user/repo/blob/branch/other_file.md)
 ╔ Gaming pc
 ╠► [Windows 10](https://amzn.to/3nuXq5t)
 ╠► Z370-A PRO Motherboard https://amzn.to/2ZhPIA8
